@@ -1,0 +1,5 @@
+application:
+  name: backend
+
+config:
+  env: base
